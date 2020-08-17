@@ -1,0 +1,15 @@
+/.vscode/
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+.idea
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+chinese_L-12_H-768_A-12/
+output/
+__pycache__
+bert/__pycache__
+client/saved_model/
